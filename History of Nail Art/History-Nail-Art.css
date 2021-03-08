@@ -1,0 +1,32 @@
+body{
+    margin: auto;
+    text-align: left;
+}
+.history1{
+    width: 500px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 50px;
+    float: left;
+}
+.history2{
+    width: 500px;
+    height: 520px;
+    margin-top: 80px;
+    margin-left: 20px;
+    float: left;
+}
+.history3{
+    width: 500px;
+    height: 500px;
+    margin-top: 20px;
+    margin-left: 50px;
+    float: left;
+}
+.history4{
+    width: 500px;
+    height: 500px;
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+}
